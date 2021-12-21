@@ -4,7 +4,7 @@ class Config:
         self.JOBDir = "Queries/JOB"
         self.schemaFile = "schema.sql"
         self.dbName = "imdbload"
-        self.userName = "vagrant"
+        self.userName = "dbuser"
         self.password = "123456"
         self.ip = "127.0.0.1"
         self.port = 5432
